@@ -10,6 +10,13 @@ Then use poetry to install dependencies:
 poetry install
 ```
 
+## Running
+
+To try a code example like [event_handling.py](learning/makinggames/event_handling.py) run:
+```bash
+cd learning/makinggames
+python event_handling.py
+```
  
 ## Resources
 https://inventwithpython.com/pygame/
